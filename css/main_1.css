@@ -1,0 +1,108 @@
+header .container-fluid {
+    background-color: #f5f5f5;
+}
+.cart1 {
+    position: relative;
+}
+.cartNum {
+    position: absolute;
+    top: -8px;
+    right: 8px;
+}
+.navbar {
+    background-color: #1377c5;
+    border: none;
+    margin: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    background-color: rgb(69, 164, 237);
+}
+.slider img {
+    width: 100%;
+}
+.carousel-inner button {
+
+    background-color: #f44027;
+    border: none;
+    color: white;
+    padding: 10px 25px 10px 20px;
+}
+
+.carousel-inner .learnmore {
+    background-color: #fff;
+    border: none;
+    color: black;
+    padding: 10px 25px 10px 20px;
+}
+
+.carousel-caption h1 {
+    color: #0a68b1;
+    font-weight: bolder;
+}
+.about {
+    background: url(style-images/about.png) no-repeat center center fixed;
+    background-size: cover;
+    color: black;
+    padding: 30px;
+}
+.foods1 a  {
+    color: white;
+}
+.foods1 a:hover {
+    color: #6fd22d;
+}
+.appoinment {
+    background: url(style-images/appoinment.png) no-repeat center center fixed;
+    background-size: cover;
+    color: black;
+    padding: 30px;
+    color: white;
+}
+.form-group button {
+    color: white;
+    background-color: #539e22;
+    border: none;
+}
+.form-group button:hover {
+    background-color:#6fd22d;
+}
+.services {
+    background: url(style-images/services.png) no-repeat center center fixed;
+    background-size: cover;
+    color: black;
+    padding: 30px;
+    color: black;
+}
+.services .col-sm-3 img {
+    width: 100%;
+}
+.store {
+    background: url(style-images/store.png) no-repeat center center fixed;
+    background-size: cover;
+    padding: 30px;
+    color: white;
+}
+.store button {
+    color: white;
+    background-color: #cc9900;
+    border: none;
+}
+.store button:hover {
+    background-color: #997300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
